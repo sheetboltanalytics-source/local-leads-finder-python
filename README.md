@@ -38,3 +38,11 @@ The commercial release includes pre-configured virtual environments, graphical u
 ---
 
 ## 🛠️ Quick Architecture Overview
+
+### Requirements
+- Python 3.10+
+- Streamlit
+- Requests / BeautifulSoup4
+- Pandas
+
+Grab the complete plug-and-play package here: **[https://karankumar00.gumroad.com/l/kxpxn](https://karankumar00.gumroad.com/l/kxpxn)**
